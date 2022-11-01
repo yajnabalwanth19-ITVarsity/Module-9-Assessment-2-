@@ -1,0 +1,34 @@
+body{
+    font-family: sans-serif;
+}
+
+#local{
+    width: 100%;
+    background-color: #7895B2;
+    padding: 15px 0;
+    margin: 0;
+    font-size: 1.5rem;
+    color:#F5EFE6;
+    text-align: center;
+}
+
+#cities{
+    border-collapse: collapse;
+    width: 100%;
+    background-color: #E8DFCA;
+}
+
+#cities td{
+    padding: 8px;
+}
+
+#cities tr:nth-child(even){
+    background-color: #AEBDCA;
+}
+.col1{
+    width: 10%;
+}
+
+.col2{
+    width: 45%;
+}
